@@ -1,0 +1,110 @@
+<svg height="1710" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1710" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 12:43:19 +0000    98962 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 12:43:19 +0000      688 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 12:43:19 +0000    34520 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 12:43:19 +0000     1139 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 12:43:19 +0000     2017 bytes  generators/app/config/files.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 12:43:19 +0000      508 bytes  generators/app/config/paths.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 12:43:19 +0000      513 bytes  generators/app/index.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 12:43:19 +0000      597 bytes  generators/app/src/configuring.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 12:43:19 +0000      692 bytes  generators/app/src/end.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 12:43:19 +0000     1047 bytes  generators/app/src/install.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 12:43:19 +0000     1287 bytes  generators/app/src/prompting.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 12:43:19 +0000     1407 bytes  generators/app/src/writing.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 12:43:19 +0000       93 bytes  generators/app/templates/_CHANGELOG.md</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 12:43:19 +0000     2219 bytes  generators/app/templates/_Gruntfile.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 12:43:19 +0000      257 bytes  generators/app/templates/_README.md</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 12:43:19 +0000      104 bytes  generators/app/templates/_bower.json</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 12:43:19 +0000     1077 bytes  generators/app/templates/_conf.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 12:43:19 +0000      492 bytes  generators/app/templates/_index.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-22 12:43:19 +0000     1520 bytes  generators/app/templates/_install.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-22 12:43:19 +0000      499 bytes  generators/app/templates/_mkdocs.yml</tspan>
+<tspan x="10" y="346"> 20.  2017-04-22 12:43:19 +0000     1861 bytes  generators/app/templates/_package.json</tspan>
+<tspan x="10" y="362"> 21.  2017-04-22 12:43:19 +0000      371 bytes  generators/app/templates/app/client/admin/compas\</tspan>
+<tspan x="10" y="378">s/sass/_{{plugin}}.scss</tspan>
+<tspan x="10" y="394"> 22.  2017-04-22 12:43:19 +0000      116 bytes  generators/app/templates/app/client/admin/compas\</tspan>
+<tspan x="10" y="410">s/sass/base/_base.scss</tspan>
+<tspan x="10" y="426"> 23.  2017-04-22 12:43:19 +0000      264 bytes  generators/app/templates/app/client/admin/compas\</tspan>
+<tspan x="10" y="442">s/sass/base/_browser-support.scss</tspan>
+<tspan x="10" y="458"> 24.  2017-04-22 12:43:19 +0000        8 bytes  generators/app/templates/app/client/admin/compas\</tspan>
+<tspan x="10" y="474">s/sass/base/_colors.scss</tspan>
+<tspan x="10" y="490"> 25.  2017-04-22 12:43:19 +0000      132 bytes  generators/app/templates/app/client/admin/compas\</tspan>
+<tspan x="10" y="506">s/sass/base/_on-responsive.scss</tspan>
+<tspan x="10" y="522"> 26.  2017-04-22 12:43:19 +0000      598 bytes  generators/app/templates/app/client/admin/compas\</tspan>
+<tspan x="10" y="538">s/sass/base/_setting-responsive.scss</tspan>
+<tspan x="10" y="554"> 27.  2017-04-22 12:43:19 +0000      313 bytes  generators/app/templates/app/client/admin/compas\</tspan>
+<tspan x="10" y="570">s/sass/base/_typography.scss</tspan>
+<tspan x="10" y="586"> 28.  2017-04-22 12:43:19 +0000     1074 bytes  generators/app/templates/app/client/admin/compas\</tspan>
+<tspan x="10" y="602">s/sass/mixins/_animation.scss</tspan>
+<tspan x="10" y="618"> 29.  2017-04-22 12:43:19 +0000      275 bytes  generators/app/templates/app/client/admin/compas\</tspan>
+<tspan x="10" y="634">s/sass/mixins/_browser.scss</tspan>
+<tspan x="10" y="650"> 30.  2017-04-22 12:43:19 +0000      892 bytes  generators/app/templates/app/client/admin/compas\</tspan>
+<tspan x="10" y="666">s/sass/mixins/_responsive.scss</tspan>
+<tspan x="10" y="682"> 31.  2017-04-22 12:43:19 +0000      547 bytes  generators/app/templates/app/client/admin/compas\</tspan>
+<tspan x="10" y="698">s/sass/mixins/_retina.scss</tspan>
+<tspan x="10" y="714"> 32.  2017-04-22 12:43:19 +0000     5416 bytes  generators/app/templates/app/client/admin/compas\</tspan>
+<tspan x="10" y="730">s/sass/mixins/library/_mq.scss</tspan>
+<tspan x="10" y="746"> 33.  2017-04-22 12:43:19 +0000      129 bytes  generators/app/templates/app/client/admin/compas\</tspan>
+<tspan x="10" y="762">s/sass/modules/__all.scss</tspan>
+<tspan x="10" y="778"> 34.  2017-04-22 12:43:19 +0000      713 bytes  generators/app/templates/app/client/admin/js/ov/\</tspan>
+<tspan x="10" y="794">_{{Plugin}}App.js</tspan>
+<tspan x="10" y="810"> 35.  2017-04-22 12:43:19 +0000      354 bytes  generators/app/templates/app/client/admin/js/ov/\</tspan>
+<tspan x="10" y="826">_{{Plugin}}Controller.js</tspan>
+<tspan x="10" y="842"> 36.  2017-04-22 12:43:19 +0000      869 bytes  generators/app/templates/app/client/admin/js/ov/\</tspan>
+<tspan x="10" y="858">_{{Plugin}}Service.js</tspan>
+<tspan x="10" y="874"> 37.  2017-04-22 12:43:19 +0000      217 bytes  generators/app/templates/app/client/eslintrc</tspan>
+<tspan x="10" y="890"> 38.  2017-04-22 12:43:19 +0000     2717 bytes  generators/app/templates/app/server/_{{Plugin}}P\</tspan>
+<tspan x="10" y="906">lugin.js</tspan>
+<tspan x="10" y="922"> 39.  2017-04-22 12:43:19 +0000      604 bytes  generators/app/templates/app/server/httpErrors.j\</tspan>
+<tspan x="10" y="938">s</tspan>
+<tspan x="10" y="954"> 40.  2017-04-22 12:43:19 +0000      238 bytes  generators/app/templates/assets/be/views/_{{plug\</tspan>
+<tspan x="10" y="970">in}}.html</tspan>
+<tspan x="10" y="986"> 41.  2017-04-22 12:43:19 +0000       32 bytes  generators/app/templates/bowerrc</tspan>
+<tspan x="10" y="1002"> 42.  2017-04-22 12:43:19 +0000     2826 bytes  generators/app/templates/docs/developers/back-en\</tspan>
+<tspan x="10" y="1018">d.md</tspan>
+<tspan x="10" y="1034"> 43.  2017-04-22 12:43:19 +0000     1055 bytes  generators/app/templates/docs/developers/compila\</tspan>
+<tspan x="10" y="1050">tion.md</tspan>
+<tspan x="10" y="1066"> 44.  2017-04-22 12:43:19 +0000      865 bytes  generators/app/templates/docs/developers/end-to-\</tspan>
+<tspan x="10" y="1082">end-tests.md</tspan>
+<tspan x="10" y="1098"> 45.  2017-04-22 12:43:19 +0000      335 bytes  generators/app/templates/docs/developers/install\</tspan>
+<tspan x="10" y="1114">ation.md</tspan>
+<tspan x="10" y="1130"> 46.  2017-04-22 12:43:19 +0000      411 bytes  generators/app/templates/docs/developers/unit-te\</tspan>
+<tspan x="10" y="1146">sts.md</tspan>
+<tspan x="10" y="1162"> 47.  2017-04-22 12:43:19 +0000     2026 bytes  generators/app/templates/docs/index.md</tspan>
+<tspan x="10" y="1178"> 48.  2017-04-22 12:43:19 +0000     5622 bytes  generators/app/templates/eslintrc</tspan>
+<tspan x="10" y="1194"> 49.  2017-04-22 12:43:19 +0000       24 bytes  generators/app/templates/gitattributes</tspan>
+<tspan x="10" y="1210"> 50.  2017-04-22 12:43:19 +0000      396 bytes  generators/app/templates/gitignore</tspan>
+<tspan x="10" y="1226"> 51.  2017-04-22 12:43:19 +0000      223 bytes  generators/app/templates/i18n/_admin-back-office\</tspan>
+<tspan x="10" y="1242">-en.json</tspan>
+<tspan x="10" y="1258"> 52.  2017-04-22 12:43:19 +0000      229 bytes  generators/app/templates/i18n/_admin-back-office\</tspan>
+<tspan x="10" y="1274">-fr.json</tspan>
+<tspan x="10" y="1290"> 53.  2017-04-22 12:43:19 +0000      550 bytes  generators/app/templates/npmignore</tspan>
+<tspan x="10" y="1306"> 54.  2017-04-22 12:43:19 +0000      809 bytes  generators/app/templates/tasks/_compass.js</tspan>
+<tspan x="10" y="1322"> 55.  2017-04-22 12:43:19 +0000     1115 bytes  generators/app/templates/tasks/_concat.js</tspan>
+<tspan x="10" y="1338"> 56.  2017-04-22 12:43:19 +0000      240 bytes  generators/app/templates/tasks/_mkdocs.js</tspan>
+<tspan x="10" y="1354"> 57.  2017-04-22 12:43:19 +0000     1147 bytes  generators/app/templates/tasks/_uglify.js</tspan>
+<tspan x="10" y="1370"> 58.  2017-04-22 12:43:19 +0000      550 bytes  generators/app/templates/tasks/_yuidoc.js</tspan>
+<tspan x="10" y="1386"> 59.  2017-04-22 12:43:19 +0000      379 bytes  generators/app/templates/tasks/eslint.js</tspan>
+<tspan x="10" y="1402"> 60.  2017-04-22 12:43:19 +0000      354 bytes  generators/app/templates/tasks/gh-pages.js</tspan>
+<tspan x="10" y="1418"> 61.  2017-04-22 12:43:19 +0000      812 bytes  generators/app/templates/tasks/karma.js</tspan>
+<tspan x="10" y="1434"> 62.  2017-04-22 12:43:19 +0000      315 bytes  generators/app/templates/tasks/mochaTest.js</tspan>
+<tspan x="10" y="1450"> 63.  2017-04-22 12:43:19 +0000      531 bytes  generators/app/templates/tasks/project.js</tspan>
+<tspan x="10" y="1466"> 64.  2017-04-22 12:43:19 +0000      202 bytes  generators/app/templates/tasks/remove.js</tspan>
+<tspan x="10" y="1482"> 65.  2017-04-22 12:43:19 +0000      281 bytes  generators/app/templates/tasks/rename.js</tspan>
+<tspan x="10" y="1498"> 66.  2017-04-22 12:43:19 +0000      311 bytes  generators/app/templates/tasks/watch.js</tspan>
+<tspan x="10" y="1514"> 67.  2017-04-22 12:43:19 +0000      204 bytes  generators/entity/config/files.json</tspan>
+<tspan x="10" y="1530"> 68.  2017-04-22 12:43:19 +0000      571 bytes  generators/entity/index.js</tspan>
+<tspan x="10" y="1546"> 69.  2017-04-22 12:43:19 +0000     3136 bytes  generators/entity/src/prompting.js</tspan>
+<tspan x="10" y="1562"> 70.  2017-04-22 12:43:19 +0000     2177 bytes  generators/entity/src/writing.js</tspan>
+<tspan x="10" y="1578"> 71.  2017-04-22 12:43:19 +0000       45 bytes  generators/entity/templates/_conf.js</tspan>
+<tspan x="10" y="1594"> 72.  2017-04-22 12:43:19 +0000      555 bytes  generators/entity/templates/app/server/controlle\</tspan>
+<tspan x="10" y="1610">rs/_{{Entity}}Controller.js</tspan>
+<tspan x="10" y="1626"> 73.  2017-04-22 12:43:19 +0000      498 bytes  generators/entity/templates/app/server/models/_{\</tspan>
+<tspan x="10" y="1642">{Entity}}Model.js</tspan>
+<tspan x="10" y="1658"> 74.  2017-04-22 12:43:19 +0000      474 bytes  generators/entity/templates/app/server/providers\</tspan>
+<tspan x="10" y="1674">/_{{Entity}}Provider.js</tspan>
+<tspan x="10" y="1690"> 75.  2017-04-22 12:43:19 +0000     1278 bytes  package.json</tspan>
+</text>
+</svg>
